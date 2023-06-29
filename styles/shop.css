@@ -1,0 +1,51 @@
+.wrapper {
+  background: url(../png/bg2.png);
+}
+
+.shop {
+  margin: 90px auto auto;
+  gap: 30px;
+}
+
+.card {
+  width: 130px;
+}
+
+.card_pic {
+  display: block;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.card_btn {
+  width: 110px;
+  height: 45px;
+
+  border-radius: 11px;
+  border: 1px solid #ab6059;
+  background: #2d1311;
+
+  font-size: 18px;
+}
+
+.card_btn.gray {
+  background: #6d6d6d;
+}
+
+.title {
+  font-size: 32px;
+  font-weight: 800;
+  margin: 20px;
+  text-align: center;
+}
+
+.back {
+  top: 10px;
+  left: 20px;
+}
+
+.balance_cont {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+}

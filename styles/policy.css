@@ -1,0 +1,21 @@
+.wrapper {
+  padding: 15px;
+}
+
+.p_header {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+  margin-bottom: 25px;
+}
+
+.ok {
+  position: fixed;
+  right: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.text {
+  width: 65%;
+}

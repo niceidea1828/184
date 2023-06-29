@@ -1,0 +1,37 @@
+.wrapper {
+  height: 100vh;
+  overflow: hidden;
+}
+
+.balance_cont {
+  position: absolute;
+  right: 20px;
+  top: 10px;
+}
+
+.back {
+  top: 10px;
+}
+
+.spin {
+  position: absolute;
+  right: 15px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.wheel {
+  margin: 40px auto auto 20px;
+  transition: transform 2s ease;
+}
+
+.pointer {
+  position: absolute;
+  left: 350px;
+  top: 80px;
+}
+
+.modal {
+  width: 556px;
+  height: 325px;
+}
